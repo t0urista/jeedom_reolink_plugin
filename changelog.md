@@ -1,6 +1,6 @@
 # Change log
 
-10/03/2021
+10/03/2024
 - Ajout de nouvelles détection depuis la souscrption ONVIF
 - Amélioration communication entre daemon et plugin
 Merci @t0urista 
